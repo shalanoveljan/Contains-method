@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\bin\Debug\net7.0\ContainsMethod.exe
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\bin\Debug\net7.0\ContainsMethod.deps.json
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\bin\Debug\net7.0\ContainsMethod.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\bin\Debug\net7.0\ContainsMethod.dll
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\bin\Debug\net7.0\ContainsMethod.pdb
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\obj\Debug\net7.0\ContainsMethod.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\obj\Debug\net7.0\ContainsMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\obj\Debug\net7.0\ContainsMethod.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\obj\Debug\net7.0\ContainsMethod.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\obj\Debug\net7.0\ContainsMethod.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\obj\Debug\net7.0\ContainsMethod.dll
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\obj\Debug\net7.0\refint\ContainsMethod.dll
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\obj\Debug\net7.0\ContainsMethod.pdb
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\obj\Debug\net7.0\ContainsMethod.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\ContainsMethod\obj\Debug\net7.0\ref\ContainsMethod.dll
