@@ -6,16 +6,16 @@ public class Program
 
     public static void Main(string[] args)
     {
-        string b= "Hello, World!";
-        string a= ", world";
+        string Sentence= "he, s";
+        string Searchsentence= "He, ";
 
-        if (b.ToLower().Contains( a.ToLower()))
+       if(Sentence.ToLower().CustomContains(Searchsentence.ToLower()))
         {
-            Console.WriteLine(" a is found in the b.");
+            Console.WriteLine("true");
         }
-        else
+       else
         {
-            Console.WriteLine("a is not found in the b.");
+            Console.WriteLine("false");
         }
     }
 }
