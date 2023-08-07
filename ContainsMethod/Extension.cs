@@ -35,7 +35,7 @@ public static bool CustomContains(this string Sentence, string SearchSentence)
                     }
                     else
                     {
-
+                       count=0;
                         continue;
 
                     }
