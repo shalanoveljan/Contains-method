@@ -15,7 +15,7 @@ public static bool CustomContains(this string Sentence, string SearchSentence)
             bool result = false;
             for(int i=0; i<SearchSentence.Length; i++)
             {
-                for (int j = 0; j < Sentence.Length; j++)
+                for (int j = i+1; j < Sentence.Length; j++)
                 {
                     if (Sentence[j]== SearchSentence[i])
                     {
